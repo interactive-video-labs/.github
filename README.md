@@ -23,13 +23,13 @@ Based on the selection, the player inserts a relevant example video and then res
 
 ## 🧩 Projects Under Development
 
-| Repository                    | Description                                                |
-|------------------------------|------------------------------------------------------------|
-| [`interactive-video-player`](https://github.com/YOUR-ORG/interactive-video-player) | Core player with cue modals and dynamic playback         |
-| `cue-detection-module`       | Detects cue moments using audio/speech input               |
-| `lesson-uploader`            | Admin tool for uploading lessons + example clips           |
-| `example-lessons`            | Public metadata + video samples for demo/testing           |
-| `docs`                       | Architecture, contribution guides, and developer notes     |
+| Repository                                                                 | Description                                                |
+|---------------------------------------------------------------------------|------------------------------------------------------------|
+| [`interactive-video-player`](https://github.com/interactive-video-labs/interactive-video-player) | Core player with cue modals and dynamic playback           |
+| [`cue-detection-module`](https://github.com/interactive-video-labs/cue-detection-module)       | Detects cue moments using audio/speech input               |
+| [`lesson-uploader`](https://github.com/interactive-video-labs/lesson-uploader)                 | Admin tool for uploading lessons + example clips           |
+| [`example-lessons`](https://github.com/interactive-video-labs/example-lessons)                 | Public metadata + video samples for demo/testing           |
+| [`docs`](https://github.com/interactive-video-labs/docs)                                       | Architecture, contribution guides, and developer notes     |
 
 ---
 
