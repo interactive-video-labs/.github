@@ -20,6 +20,29 @@ When the instructor says something like _“for example,”_ a modal appears ask
 Based on the selection, the player inserts a relevant example video and then resumes the main lesson — all without switching screens.
 
 ---
+## 🧠 Key Features
+
+- **Cue-Triggered Modals** – Detects predefined timestamps (or phrases like “for example”) to prompt interaction.
+- **Level-Based Examples** – Users choose their experience level, triggering relevant video clips.
+- **Seamless Playback** – Example video is inserted and automatically returns to the main timeline.
+- **Analytics Logging** – Records user decisions for personalization and progress tracking.
+
+---
+
+## 💠 Tech Stack
+
+*Not finalized yet.*  
+We are currently evaluating the best tools and frameworks for:
+
+- Frontend video interaction and overlays
+- Backend API for metadata and playback logic
+- Cue detection using speech-to-text or manual timestamps
+- Seamless video switching and playback control
+
+💡 Suggestions and contributions are welcome!
+
+
+---
 
 ## 🧩 Projects Under Development
 
