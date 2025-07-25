@@ -69,7 +69,7 @@ We are currently evaluating the best tools and frameworks for:
 
 We’re looking for collaborators interested in:
 - Web video UX and interaction
-- React / FastAPI / Python / TypeScript
+- React /Vue / FastAPI / Python / TypeScript
 - Whisper, Vosk, or speech cue detection
 - Instructional design and pedagogy
 
