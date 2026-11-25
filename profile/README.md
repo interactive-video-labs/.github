@@ -41,7 +41,6 @@ We are currently evaluating the best tools and frameworks for:
 
 💡 Suggestions and contributions are welcome!
 
-
 ---
 
 ## 🧩 Projects Under Development
@@ -53,6 +52,25 @@ We are currently evaluating the best tools and frameworks for:
 | [`lesson-uploader`](https://github.com/interactive-video-labs/lesson-uploader)                 | Admin tool for uploading lessons + example clips           |
 | [`example-lessons`](https://github.com/interactive-video-labs/example-lessons)                 | Public metadata + video samples for demo/testing           |
 | [`docs`](https://github.com/interactive-video-labs/docs)                                       | Architecture, contribution guides, and developer notes     |
+
+---
+
+## 📦 Published Packages & Ecosystems
+
+### 🟢 NPM Registry
+| Package | Ecosystem / Role | Link |
+| :--- | :--- | :--- |
+| **`@interactive-video-labs/core`** | Framework-agnostic TypeScript interactive video engine | [npm](https://www.npmjs.com/package/@interactive-video-labs/core) |
+| **`@interactive-video-labs/react`** | React component & hook wrapper | [npm](https://www.npmjs.com/package/@interactive-video-labs/react) |
+| **`@interactive-video-labs/vue`** | Vue 3 component wrapper | [npm](https://www.npmjs.com/package/@interactive-video-labs/vue) |
+| **`@interactive-video-labs/angular`** | Angular component wrapper | [npm](https://www.npmjs.com/package/@interactive-video-labs/angular) |
+| **`@interactive-video-labs/svelte`** | Svelte component wrapper | [npm](https://www.npmjs.com/package/@interactive-video-labs/svelte) |
+
+### 🐍 PyPI Registry
+| Package | Ecosystem / Role | Link |
+| :--- | :--- | :--- |
+| **`interactive-video-backend-core`** | Python & SQLAlchemy storage layer for interactive video cues | [PyPI](https://pypi.org/project/interactive-video-labs-core/) |
+| **`interactive-video-labs-fastapi`** | FastAPI backend package for Interactive Video Labs | [PyPI](https://pypi.org/p/interactive-video-labs-fastapi) |
 
 ---
 
@@ -69,7 +87,7 @@ We are currently evaluating the best tools and frameworks for:
 
 We’re looking for collaborators interested in:
 - Web video UX and interaction
-- React /Vue / FastAPI / Python / TypeScript
+- React / Vue / FastAPI / Python / TypeScript
 - Whisper, Vosk, or speech cue detection
 - Instructional design and pedagogy
 
